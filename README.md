@@ -1,9 +1,10 @@
 # Total Mechatronics BAS-META – Bridge
 *A course that provides an expedited analysis of the core disciplines utilized in mechatronics. The course serves as a refresher or introduction to the most important principles utilized within the realm of mechatronics including AC/DC circuits, motors and drives, PLC programming, digital electronics and networks, hydraulics and pneumatics, and mechanical systems.*
 
-Module_Milestone: link --> https://github.com/marysaray/TotalMechatronics/issues/1
 
-Module_Milestone: link --> https://github.com/marysaray/TotalMechatronics/issues/2
+Module_Milestone_Total_Mechatronics: link --> https://github.com/marysaray/TotalMechatronics/issues/1
+
+Module_Milestone_Total_Mechatronics: link --> https://github.com/marysaray/TotalMechatronics/issues/2
 
 For Educational Purpose Review Only: [![](https://markdown-videos-api.jorgenkh.no/youtube/-rQw7O1KCZU)](https://youtu.be/-rQw7O1KCZU)
 ![EMIDigital](https://github.com/user-attachments/assets/977c50e2-c1ed-4ac1-bde9-ef6f02694619)
