@@ -11,7 +11,8 @@ Module_Milestone_Total_Mechatronics: link --> https://github.com/marysaray/Total
 For Educational Purpose Review Only: [![](https://markdown-videos-api.jorgenkh.no/youtube/-rQw7O1KCZU)](https://youtu.be/-rQw7O1KCZU)
 ![EMIDigital](https://github.com/user-attachments/assets/977c50e2-c1ed-4ac1-bde9-ef6f02694619)
 ![MarySarayElectricalSchematicOverviewSU24](https://github.com/user-attachments/assets/1e98b561-e277-4dea-bd3c-c59d0812b573)
-![FluidPowerSchematics](https://github.com/user-attachments/assets/acf24290-cf2f-43d1-a6fe-24e5f5a64343)
+![FluidPowerSchematics](https://github.com/user-attachments/assets/a112a709-c5cc-454d-bcb3-8bf843a7521d)
+
 
 
 
